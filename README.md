@@ -1,15 +1,14 @@
-## About Me
+## Profile
 
 ### 🎓 **Education**  
-- **MBA in Marketing & Business Analytics**, Ajou University  
+- **경영학 석사 (MBA)**, 마케팅 & 비즈니스 분석 전공, 아주대학교
 
 ### 💼 **Professional Experience**  
-- Over **4 years of experience** as an Online MD, specializing in data-driven decision-making and business optimization  
-- Currently transitioning into **Data Analysis** to apply analytical skills and insights in driving business growth
+- **온라인 MD**로 4년 이상의 경험, 데이터 기반 의사결정 및 비즈니스 최적화 전문
+- 현재 **데이터 분석** 분야로 전환 중, 분석 역량을 활용해 비즈니스 성장 촉진
 
 ### 🚀 **Career Objective**  
-- Aspiring to become a **Data Scientist**, focusing on advanced data analytics to uncover trends,
-  drive strategic decisions, and solve complex business challenges.
+- **데이터 사이언티스트**로서, 고급 데이터 분석을 통해 트렌드를 발견하고 전략적 의사결정을 지원하며, 복잡한 비즈니스 문제를 해결목표
 
 ### 📈 **Technologies & Tools**  
 - Data Visualization: **Tableau**, **Power BI**  
@@ -17,11 +16,9 @@
 - Programming: **Python**
 
 ### 💬 **Bio**  
-With a solid academic background in **Marketing & Business Analytics**, I have developed a keen ability to extract actionable insights from large datasets. My experience as an **Online MD** has refined my   analytical skills, where I consistently utilized data to inform business decisions and enhance e-commerce strategies.
+**마케팅 & 비즈니스 분석** 전공을 바탕으로, 대규모 데이터를 활용하여 실용적인 인사이트를 도출하는 능력을 키워왔습니다. **온라인 MD**로서 데이터를 기반으로 의사결정을 내리고, 전자상거래 전략을 강화하는 과정에서 분석 능력을 발전시켰습니다.
 
-As I transition into the field of **Data Analysis**, I aim to leverage my expertise to provide data-driven solutions that address business challenges and foster innovation. I am highly motivated by the opportunity to work with complex datasets, applying statistical methods and machine learning techniques to generate valuable insights.
-
-I am a detail-oriented, results-driven individual, passionate about problem-solving and continuously improving my skills in **data science** to contribute to meaningful outcomes in the industry.
+현재 **데이터 분석** 분야로의 전환을 통해, 복잡한 데이터셋을 분석하고 혁신적인 솔루션을 제공하는 데 집중하고 있습니다. 통계적 방법과 머신러닝 기법을 활용해 데이터를 분석하고, 이를 통해 비즈니스 문제를 해결하는 데 큰 동기부여를 느끼고 있습니다.
 
 ## Projects
 
