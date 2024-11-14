@@ -22,3 +22,9 @@ With a solid academic background in **Marketing & Business Analytics**, I have d
 As I transition into the field of **Data Analysis**, I aim to leverage my expertise to provide data-driven solutions that address business challenges and foster innovation. I am highly motivated by the opportunity to work with complex datasets, applying statistical methods and machine learning techniques to generate valuable insights.
 
 I am a detail-oriented, results-driven individual, passionate about problem-solving and continuously improving my skills in **data science** to contribute to meaningful outcomes in the industry.
+
+## Projects
+
+- RFM분석 기반 세분화 전략 및 머신러닝 기반 재구매 예측
+    - 2024.10 - 2024.11
+    - Project Link
