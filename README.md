@@ -23,7 +23,7 @@
 
 ## Projects
 
+Advisor: 민형기 교수님
 - RFM 분석 기반 세분화 전략 및 머신러닝 기반 재구매 예측
-    - Advisor : 민형기 교수님
     - 2024.10 - 2024.11
     - Project Link
